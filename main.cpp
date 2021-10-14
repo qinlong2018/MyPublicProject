@@ -38,6 +38,10 @@ void dev4_test(){}
 
 void dev_test1(){}
 
+void dev_test2(){printf("finish dev_test2");	}
+
+
+
 int main()
 {
 	printf("hello worldd");
