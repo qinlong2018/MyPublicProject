@@ -26,6 +26,8 @@ void test3()
 	printf("finish test2");	
 }
 
+void test4(){}
+
 void test5()
 {}
 
