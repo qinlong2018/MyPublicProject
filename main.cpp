@@ -41,6 +41,8 @@ void dev_test1(){}
 void dev_test2(){printf("finish dev_test2");	}
 
 
+void dev3_test1(){}
+
 
 int main()
 {
