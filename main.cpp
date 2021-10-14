@@ -31,6 +31,11 @@ void test4(){}
 void test5()
 {}
 
+
+
+
+void dev4_test(){}
+
 void dev_test1(){}
 
 int main()
