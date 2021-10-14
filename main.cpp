@@ -31,7 +31,7 @@ void test4(){}
 void test5()
 {}
 
-void test6{}
+void dev_test1(){}
 
 int main()
 {
