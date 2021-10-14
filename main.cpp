@@ -6,6 +6,13 @@ int add(int a, int b)
 	
 }
 
+void test1()
+{
+	//todo test1
+	printf("finish test1");
+	
+}
+
 
 
 int  multipy(int a, int b)
