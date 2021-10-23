@@ -2,4 +2,4 @@ test2
 todo 
 finished
 
-func2 todo
+func2 finished
