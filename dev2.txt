@@ -3,4 +3,3 @@ todo
 finished
 
 func2 finished
-func2 fixed
