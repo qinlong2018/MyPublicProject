@@ -6,3 +6,5 @@ func2 finished
 func2 bug fixed
 
 func3 finished
+
+func4 finished
