@@ -3,3 +3,5 @@ text1 finished
 func2 finished
 
 func3 finished
+
+func4 finished
